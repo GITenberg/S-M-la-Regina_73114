@@ -1,11 +1,16 @@
 _repo: S-M-la-Regina_73114
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73114-h/images/cover.jpg
 creator:
   author:
     agent_name: Misasi, Nicola
     gutenberg_agent_id: '56949'
     url: http://www.gutenberg.org/2009/agents/56949
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73114#S-M-la-Regina
 gutenberg_issued: '2024-03-06'
 gutenberg_type: Text
 identifiers:
